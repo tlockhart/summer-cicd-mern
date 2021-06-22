@@ -10,7 +10,7 @@
     "install": "cd client && npm install",
     "build": "cd client && npm run build",
     "heroku-postbuild": "npm run build",
-    "Lint": "eslint . --ext .sx .js"
+    "lint": "eslint . --ext .sx .js"
   },
   "repository": {
     "type": "git",
